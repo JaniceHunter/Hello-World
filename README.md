@@ -1,3 +1,3 @@
 # Hello-World
 
-New text to test commint and branching.
+New text to test commit and branching.
